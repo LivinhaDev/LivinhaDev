@@ -8,9 +8,13 @@ Desde criança, minha curiosidade pelo mundo digital me acompanha. Agora, aos 18
 
 ## Minhas Habilidades
 
-- 💻 Linguagens: **`JavaScript, HTML5, CSS3, Discord.js e Markdown.`**
-- 🎨 Design de Interfaces Criativas
-- 🧠 Solução Criativa de Problemas
+- 💻 Linguagens:
+  - 🚀 **JavaScript:** Minha linguagem de programação favorita, trazendo vida e interatividade aos meus projetos.
+  - 🤖 **Discord.js:** Desenvolvo bots interativos para Discord, criando experiências envolventes para comunidades online.
+  - 🌐 **HTML5:** Crio estruturas sólidas para dar vida à web.
+  - 🎨 **CSS3:** Estilizo elementos para uma experiência visual atraente.
+  - 📝 **Markdown:** Uso o poder da formatação leve para criar documentação clara e organizada.
+
 
 ## Contato
 
