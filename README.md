@@ -20,7 +20,7 @@ Desde criança, minha curiosidade pelo mundo digital me acompanha. Agora, aos 18
 
 📧 Email: livinhadev@gmail.com  
 🐦 Twitter: [@LivinhaDev](https://twitter.com/LivinhaDev)  
-💬 Discord: livinhaz  
+💬 Discord: [CodeSync Studio](https://discord.gg/EtkuAmkEGA)
 
 Sinta-se à vontade para me contatar, colaborar em projetos, trocar ideias ou simplesmente dizer olá. Estou ansiosa para conectar com outros entusiastas da tecnologia!
 
